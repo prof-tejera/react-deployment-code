@@ -1,0 +1,5 @@
+{
+ // You can get this running `which node` in Terminal
+ "node_path": "<path to node>",
+ "auto_format_on_save": true
+}
