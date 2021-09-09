@@ -18,6 +18,7 @@
 
 /**
  * Like:
+ * - cli available by default
  * - super big community
  * - lots of packages / themes (maybe too many)
  * - configuration through UI rather than JSON (also available)

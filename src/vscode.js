@@ -17,6 +17,7 @@
 
 /**
  * Like:
+ * - cli available by default
  * - big community
  * - native (runs very fast)
  * - can run in the cloud
