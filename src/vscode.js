@@ -19,13 +19,15 @@
  * Like:
  * - cli available by default
  * - big community
- * - native (runs very fast)
  * - can run in the cloud
  * - can even be embedded into a React app
  * - lots of packages / themes
  * - configuration through UI rather than JSON (also available)
  * - can open files / folders from dock
  * - Microsoft ecosystem
+ * 
+ * No like:
+ * - it is electron based, which makes it slower
  */
 import React from 'react';
 
