@@ -37,7 +37,7 @@
 - add a new folder `.github/workflows`
 - add the `build-deploy.yml` file in this project
 - in `package.json`, add a new key/value as:
-  `"homepage": "https://<user>.github.io/<repo>"`
+  `"homepage": "https://prof-tejera.github.io/<repo>"`
 - commit your files (make sure package-lock.json is there)
 
 ### In Github
@@ -47,7 +47,7 @@
 - Click Save
 
 Once the `build-deploy` action finishes running, the app should be live
-at `https://<user>.github.io/<repo>`
+at `https://prof-tejera.github.io/<repo>`
 
 ## Render.com
 - Create an account
