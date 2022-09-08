@@ -36,9 +36,9 @@
 - create your Github repo
 - add a new folder `.github/workflows`
 - add the `build-deploy.yml` file in this project
-- commit your files (make sure package-lock.json is there)
 - in `package.json`, add a new key/value as:
   `"homepage": "https://<user>.github.io/<repo>"`
+- commit your files (make sure package-lock.json is there)
 
 ### In Github
 - Go to `Settings`
