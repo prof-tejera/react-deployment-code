@@ -1,7 +1,7 @@
 # React App
 
 ## Package.json
-- your entry point to any app
+- your entry point to any app 
 - holds configuration, metadata (version, name, etc), dependencies and scripts
 
 ### Dependencies
