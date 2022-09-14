@@ -35,7 +35,7 @@
 
 - create your Github repo
 - add a new folder `.github/workflows`
-- add the `build-deploy.yml` file in this project
+- copy the `build-deploy.yml` file in this project into your repo under `.github/workflows/build-deploy.yml`
 - in `package.json`, add a new key/value as:
   `"homepage": "https://prof-tejera.github.io/<repo>"`
 - commit your files (make sure package-lock.json is there)
