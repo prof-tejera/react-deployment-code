@@ -39,6 +39,7 @@
 - in `package.json`, add a new key/value as:
   `"homepage": "https://prof-tejera.github.io/<repo>"`
 - commit your files (make sure package-lock.json is there)
+- If you don't have a `gh-pages` branch you will have to create one and push it to Github. You can find instructions on how to create a branch [here](https://www.howtogeek.com/714112/how-to-create-a-new-branch-in-github/)
 
 ### In Github
 - Go to `Settings`
