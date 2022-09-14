@@ -49,11 +49,3 @@
 
 Once the `build-deploy` action finishes running, the app should be live
 at `https://prof-tejera.github.io/<repo>`
-
-## Render.com
-- Create an account
-- Go to Dashboard
-- Click + New -> Static Site
-- Select the repo (if not there, configure Github to allow permissions)
-- Build Command -> `yarn build`
-- Publish directory -> `build`
