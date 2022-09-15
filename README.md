@@ -37,9 +37,9 @@
 - add a new folder `.github/workflows`
 - copy the `build-deploy.yml` file in this project into your repo under `.github/workflows/build-deploy.yml`
 - in `package.json`, add a new key/value as:
-  `"homepage": "https://prof-tejera.github.io/<repo>"`
+  `"homepage": "https://prof-tejera.github.io/$YOUR_REPO_NAME"`. Replace `$YOUR_REPO_NAME` with the name of your repo
 - commit your files (make sure package-lock.json is there)
-- If you don't have a `gh-pages` branch you will have to create one and push it to Github. You can find instructions on how to create a branch [here](https://www.howtogeek.com/714112/how-to-create-a-new-branch-in-github/)
+- If you don't have a `gh-pages` branch you will have to create one and push it to Github. You can find instructions on how to create a branch [here](https://www.howtogeek.com/714112/how-to-create-a-new-branch-in-github/). You don't commit anything else to `gh-pages` branch. It is just used by Github to deploy.
 
 ### In Github
 - Go to `Settings`
