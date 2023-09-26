@@ -42,7 +42,7 @@
 - If you don't have a `gh-pages` branch you will have to create one and push it to Github. You can find instructions on how to create a branch [here](https://www.howtogeek.com/714112/how-to-create-a-new-branch-in-github/). You don't commit anything else to `gh-pages` branch. It is just used by Github to deploy.
 
 ### In Github
-- Go to `Settings`
+- Go to `Settings` in your repo
 - Go to `Pages`
 - in `Source`, select `gh-pages` branch
 - Click Save
