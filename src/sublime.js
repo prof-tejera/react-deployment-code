@@ -13,9 +13,9 @@
 /**
  * Prettier:
  * - Add Package: https://packagecontrol.io/packages/JsPrettier
- * - yarn add prettier --dev / npm install --save-dev prettier
- * 	- Sublime Text -> Preferences -> Package Settings -> JsPrettier -> Settings User
- * 	- Paste jsprettier-settings.json
+ * - yarn add prettier --dev OR npm install --save-dev prettier
+ *  - Sublime Text -> Preferences -> Package Settings -> JsPrettier -> Settings User
+ *  - Paste jsprettier-settings.json
  * - Copy .prettierrc to root of project
  */
 
